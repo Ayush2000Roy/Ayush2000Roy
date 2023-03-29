@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ayush2000Roy
 - 👀 I’m interested in technology, sports, games and music.
-- 💞️ I’m looking to collaborate on any development.
 - 📫 royayush712@gmail.com
 
 <!---
