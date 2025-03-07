@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ayush2000Roy
 - 👀 I’m interested in technology, sports, games and music.
-- 🧑‍💻 Currently specializing in Big Data
+- 🧑‍💻 Currently specializing in Data Technologies & Transformations
+- ✔️ Databricks, Snowflake, Azure, Apache Spark, Python, SQL
 - 📫 royayush712@gmail.com
 - 🗺️ Bangalore, KA
 
